@@ -1,0 +1,50 @@
+.logomain{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.containerLogoMain{
+	background-color:black;
+}
+h1{
+	font-family: 'Mulish';
+	color: white;
+	font-size: 35px;
+}
+h2{
+	font-family: 'Mulish';
+	color: white;
+	font-size: 25px;
+	padding: 10px;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #7a8eb9;
+	background:linear-gradient(to bottom, #637aad 5%, #5972a7 100%);
+	background-color:#637aad;
+	border:1px solid #314179;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Mulish;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5972a7 5%, #637aad 100%);
+	background-color:#5972a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.borderWarn {
+ border-style:solid;
+ border-color:#287EC7;
+}
+.footerbar{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: black;
+}
